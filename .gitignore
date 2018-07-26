@@ -11,6 +11,8 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+mvnw
+mvnw.cmd
 
 # Log file
 *.log
